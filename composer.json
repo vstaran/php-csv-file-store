@@ -1,0 +1,15 @@
+{
+    "name": "vstaran/file-store",
+    "autoload": {
+        "psr-4": {
+            "Vstaran\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor Staranchuk",
+            "email": "vtipok89@gmail.com"
+        }
+    ],
+    "require": {}
+}
